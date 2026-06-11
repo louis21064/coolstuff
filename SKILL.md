@@ -1,5 +1,5 @@
 ---
 name: hello-world
 description: |-
-  hello it's cool to see you here
+  hello it's SOOOOO cool to see you here
 ---
